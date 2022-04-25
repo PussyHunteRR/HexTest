@@ -1,4 +1,3 @@
-import Form from './Components/Form/Form';
 import Navbar from './Components/Navbar/Navbar';
 import { Route, Routes, BrowserRouter} from 'react-router-dom'
 import PizzaContainer from './Components/Pizza/PizzaContainer';
