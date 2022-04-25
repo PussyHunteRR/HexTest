@@ -6,6 +6,7 @@ import style from './Navbar.module.css'
 const Navbar = () => {
     return (
         <div className={style.div}>
+                <h1>Choose dish</h1>
                 <div>
                     <NavLink className={style.item} to='/pizza'>Pizza</NavLink>
                 </div>
