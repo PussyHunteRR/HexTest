@@ -10,7 +10,6 @@ function App() {
   return (
     <BrowserRouter>
     <div>
-      <Form/>
       <Navbar/>
       <Routes>
       <Route path='/pizza' element={<PizzaContainer/>} />
