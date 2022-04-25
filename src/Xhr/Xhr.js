@@ -1,5 +1,4 @@
 export const urlR = "https://frosty-wood-6558.getsandbox.com:443/dishes"
-// export const urlR = "https://jsonplaceholder.typicode.com/posts"
 
 export let sendRequest = (method, url, body = null) => {
 
