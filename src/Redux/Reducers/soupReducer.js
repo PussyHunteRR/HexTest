@@ -8,7 +8,7 @@ const UPDATE_SOUP_TIME = 'UPDATE-SOUP-TIME'
 let initionalState = {
 spiceness: "",
 name: "",
-time: "00:00:00",
+time: "",
 type: "soup"
 }
 
